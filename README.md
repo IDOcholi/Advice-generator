@@ -6,7 +6,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,13 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](screenshot.png?raw=true "screenshot upper title")
-
 
 
 ### Links
 
-- Live Site URL: [age-calculator-22v2.onrender.com](https://age-calculator-22v2.onrender.com)
+- Live Site URL: [advice-generator-app-6g3k.onrender.com](https://advice-generator-app-6g3k.onrender.com)
 
 ## My process
 
